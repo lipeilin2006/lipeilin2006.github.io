@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MainPage",
   "resources": {
-    "hash": "sha256-VcTuwKqdtK70kQFrdsaBr/KW5kT6jBpY/3m7Kq4W9Ys=",
+    "hash": "sha256-cOQmz3a0tu1mzYmcMXRyqXK4fHP6pDFNdEI9FHfYajE=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.hscovu6qiz.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "MainPage.wasm": "sha256-2VmtaIKtUrsRofkZLmVQHrjnsW1OCzj3fa534jzGsVQ=",
+      "MainPage.wasm": "sha256-wobpnWAb1d8ncyOGWedQtdV0ZKhrJdBLEOuMBjB2lt4=",
       "Markdig.wasm": "sha256-Jv9S5coLP28fMUd+sd72uOfd5e3pWx+IFMRNtR/lykc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Iak7eKFOQCWNAHe3N6yRvFaC5u7+BHSfTT/u1HbmRU4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-A9pkQWoS/qeTqCghJMmAuM0smDYZuNylhH75xEL3I1o=",
@@ -53,7 +53,7 @@
       "System.Private.Uri.wasm": "sha256-hAMcDaRqg9UbqQgms3ugJaPmcqi6hmc7HpvxTIQs/PM=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-GPoaeJjnkJk6k0siGdXe8kVLnWUTo2N2hPM519fYMFs=",
       "System.Runtime.InteropServices.wasm": "sha256-htPSs6+AC6mbWdtI6mCGodhnf9FT9jdYxYBhGx22g7Q=",
-      "System.Runtime.wasm": "sha256-hZbE+w96yvO2QVxJ9KbaklZ/gR5rjzlT6/MJIcTcEY4=",
+      "System.Runtime.wasm": "sha256-NOmhxMi35M3TJuefAl+YgJKHEEIoXvxjqbTjz+l2EfA=",
       "System.Text.Encodings.Web.wasm": "sha256-qzotNcGjmC75j16EFMIJNV5ERbpcbSGN0qDxlNujdu4=",
       "System.Text.Json.wasm": "sha256-cC6/DyvtOwMNWqvWUYBf3MDqx5VSDgORV0OA7h9WWYo=",
       "System.Text.RegularExpressions.wasm": "sha256-YrUeM30PWSIAmXvjLMr9lk2Y+o49oUe0dKHcTaCznHQ=",
